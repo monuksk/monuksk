@@ -2,8 +2,8 @@
 
 - Quick 👋 Hi, I’m @monuksk
 - 👀 I’m interested in Data
-- 🌱 I’m currently exploring opportunities in Data Analytics, Business Analytics & Data Science.
-- 💞️ I’m looking to collaborate on Data Enthusiast
+- 🌱 I’m exploring opportunities in Data Analytics, Business Analytics & Data Science.
+- 💞️ I’m looking to collaborate with Data Enthusiast
 - 📫 How to reach me monu.ksk111@gmail.com
 
 Connect with me:
