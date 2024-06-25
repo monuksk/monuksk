@@ -2,7 +2,7 @@
 
 - Quick 👋 Hi, I’m @monuksk
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning and exploring the Data Science and It's related areas
+- 🌱 I’m currently exploring opportunities in Data Analytics, Business Analytics & Data Science.
 - 💞️ I’m looking to collaborate on Data Enthusiast
 - 📫 How to reach me monu.ksk111@gmail.com
 
